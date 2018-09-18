@@ -10,6 +10,8 @@ CodePens:
 - [FEWD - LAYOUT - 3 COLUMN](https://codepen.io/jkeohan/pen/QVJroO?editors=1100)
 - [FEWD - LAYOUT - SIMPLE MARKETING](https://codepen.io/jkeohan/pen/JaevqQ?editors=1100)
 
+When making your pull request past YOUR codepen links into the pull request.
+
 ## BONUS
 
 Recreate the addtional 2 layouts:
