@@ -7,7 +7,7 @@
 
 CodePens:
 - [FEWD - LAYOUT - 2 COLUMN](https://codepen.io/jkeohan/pen/ZMmoqR?editors=0100)
-- [FEWD - LAYOUT - 2 COLUMN](https://codepen.io/jkeohan/pen/QVJroO?editors=1100)
+- [FEWD - LAYOUT - 3 COLUMN](https://codepen.io/jkeohan/pen/QVJroO?editors=1100)
 - [FEWD - LAYOUT - SIMPLE MARKETING](https://codepen.io/jkeohan/pen/JaevqQ?editors=1100)
 
 ## BONUS
