@@ -7,9 +7,9 @@ You will need a codepen account for this assessment!
 2. Recreate at least the first 3 of the layout designs in the layout_designs.pdf using flexbox and any additional css learned thus far using the codepens below:
 
 CodePens:
-- [Layout 1](https://codepen.io)
-- [Layout 2](https://codepen.io)
-- [Layout 3](https://codepen.io)
+- [Layout 1](https://codepen.io/NotWyahid/pen/rEYZeG)
+- [Layout 2](https://codepen.io/NotWyahid/pen/mZpwgz)
+- [Layout 3](https://codepen.io/NotWyahid/pen/XLVarM)
 
 When making your pull request, paste YOUR codepen links into the pull request.
 
